@@ -89,8 +89,8 @@ This reduces human intervention, saves chemicals, and improves environmental sus
 ---
 
 ![image alt](https://github.com/Jinmoyee/AI-POWERED-HYDRO-PILOT-RO-BOAT/blob/9bebd1d94e23209ee725dc1ca90c1d01111f0bd0/Boat_Movement.png)
-![image alt](https://github.com/Jinmoyee/AI-POWERED-HYDRO-PILOT-RO-BOAT/blob/9bebd1d94e23209ee725dc1ca90c1d01111f0bd0/Boat_Movement.png)
-![image alt](https://github.com/Jinmoyee/AI-POWERED-HYDRO-PILOT-RO-BOAT/blob/9bebd1d94e23209ee725dc1ca90c1d01111f0bd0/Boat_Movement.png)
+![image alt](https://github.com/Jinmoyee/AI-POWERED-HYDRO-PILOT-RO-BOAT/blob/7c5ada3634cc232af59c21e3314c306bff6d4e24/Chemical_Spreading.png)
+![image alt](https://github.com/Jinmoyee/AI-POWERED-HYDRO-PILOT-RO-BOAT/blob/7c5ada3634cc232af59c21e3314c306bff6d4e24/Application.png)
 
 ---
 

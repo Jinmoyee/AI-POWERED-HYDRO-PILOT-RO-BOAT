@@ -156,10 +156,10 @@ This reduces human intervention, saves chemicals, and improves environmental sus
 ---
 
 ## 👥 Team Members
-
-- **Monjinur Alom**  
+  
 - **Jinmoyee Thakuria**  
 - **Ashmita Sarkar**  
+- **Monjinur Alom**
 
 **Project Guide:**  
 Md. Jainul Abudin  
